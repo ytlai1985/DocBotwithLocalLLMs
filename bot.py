@@ -4,7 +4,7 @@ from langc import ChromaQA
 from llama2 import MyLLAMA
 
 
-bard_token = 'YwhrVv6pALiz8zfTfdHPgHAd9JQ-J-q8quls3G2rNiCkYppCqJj1k311XClBx8r6c_OBFQ.'
+bard_token = 'YwhrVv6pALiz8zfBx8r6c_OBFQ.'
 local_host = '127.0.0.1:5566'
 llm = BardAgent(bard_token)
 llm_local = MyLLAMA(local_host)
