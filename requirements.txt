@@ -1,0 +1,6 @@
+gradio
+langchain
+fschat
+openai
+pandas
+bardapi
